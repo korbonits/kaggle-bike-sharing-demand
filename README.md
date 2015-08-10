@@ -7,7 +7,7 @@ This public repo represents work done for the Kaggle Bike Sharing Demand competi
 
 Thus far, the dependencies are the Python SciPy stack, plus GraphLab-Create. 
 
-Additional forthcoming documentation as we branch out into more models.
+Additional forthcoming documentation as I branch out into more models.
 
 ## Pre-requisites
 
